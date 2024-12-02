@@ -3,7 +3,7 @@
    <description></description>
    <name>Test_CTUTSHOP_Katalon</name>
    <tag></tag>
-   <UUID>58a3e5cf-cb95-4142-b8f7-4665f542be7a</UUID>
+   <UUID>e772f21d-5152-4ed6-8705-587b170cf7d4</UUID>
    <createdEdition>FREE</createdEdition>
    <createdVersion>9.7.3</createdVersion>
    <freeLicense>false</freeLicense>
@@ -30,5 +30,5 @@
       </systemFolderList>
    </sourceContent>
    <timeStampInProperties>false</timeStampInProperties>
-   <type>WEBSERVICE</type>
+   <type>WEBUI</type>
 </Project>
