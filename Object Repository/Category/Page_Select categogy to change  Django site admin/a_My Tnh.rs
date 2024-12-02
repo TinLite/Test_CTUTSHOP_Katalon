@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_My Tnh</name>
+   <tag></tag>
+   <elementGuidId>3694dbbe-0327-4dbf-a5b2-8556834c6077</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='result_list']/tbody/tr/th/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>th.field-__str__ > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>37a75779-120d-41e4-b3e9-f95c67618582</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/admin/app/categogy/3/change/</value>
+      <webElementGuid>14054c19-e42e-4e95-8400-66ff25b1f68b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Máy Tính</value>
+      <webElementGuid>0e20e94d-8175-4ee7-a3ee-103160745392</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;result_list&quot;)/tbody[1]/tr[1]/th[@class=&quot;field-__str__&quot;]/a[1]</value>
+      <webElementGuid>cb7904fb-e4a0-4e9f-8851-6df23ea18c5f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='result_list']/tbody/tr/th/a</value>
+      <webElementGuid>ab203887-db42-4cf2-b586-6faef720646f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Máy Tính')]</value>
+      <webElementGuid>c3fc0cf1-7ae1-4531-856f-1c440360a69b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Categogy'])[1]/following::a[1]</value>
+      <webElementGuid>3cc401e5-a417-4019-98ef-3295d8f9e9c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Go'])[1]/following::a[2]</value>
+      <webElementGuid>1abad938-dd81-4c56-a456-8fba0de09622</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Máy tính bảng'])[1]/preceding::a[1]</value>
+      <webElementGuid>b9d00571-3500-4d77-81d2-02043b502a12</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Điện thoại'])[1]/preceding::a[2]</value>
+      <webElementGuid>edfcf04f-6b57-4595-9ff9-437bb7665446</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Máy Tính']/parent::*</value>
+      <webElementGuid>ad0ed622-0129-4bbb-bb84-16e622865f21</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/admin/app/categogy/3/change/')]</value>
+      <webElementGuid>4875260f-a142-4699-a66d-72b26c8b5266</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div[2]/table/tbody/tr/th/a</value>
+      <webElementGuid>b64ff3dc-535d-48f0-8f7f-022f766f45c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/admin/app/categogy/3/change/' and (text() = 'Máy Tính' or . = 'Máy Tính')]</value>
+      <webElementGuid>243a1020-644f-489b-860a-42ffb0de7d4a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

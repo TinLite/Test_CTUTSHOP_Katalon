@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_The categogy Tivi was changed successfully</name>
+   <tag></tag>
+   <elementGuidId>d11a3ec5-bece-46ce-b238-5712ee846015</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li.success</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='content-start']/ul/li</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>88126799-d1c4-49c3-b901-9ed601c50a2c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>success</value>
+      <webElementGuid>cff9d0dd-ef22-4d44-a2b5-636b9a9c4105</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>The categogy “Tivi” was changed successfully.</value>
+      <webElementGuid>eb6facb4-88b7-4f38-a2a9-31a762f17165</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content-start&quot;)/ul[@class=&quot;messagelist&quot;]/li[@class=&quot;success&quot;]</value>
+      <webElementGuid>330e2b77-7c30-478d-b127-14a54dd5e146</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='content-start']/ul/li</value>
+      <webElementGuid>3db5fe79-8616-45e4-954b-f6873d5a4a98</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add'])[4]/following::li[1]</value>
+      <webElementGuid>7e42bad9-10fd-4592-b72f-12cacba65265</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Users'])[1]/following::li[1]</value>
+      <webElementGuid>ca948f4c-c9ea-45d0-a7be-eaa9fbad6f67</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select categogy to change'])[1]/preceding::li[1]</value>
+      <webElementGuid>ca21717b-8600-4707-ac08-0ce449786e99</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='The categogy “']/parent::*</value>
+      <webElementGuid>c3cf1177-5268-418a-80a5-d55b98ab7d05</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li</value>
+      <webElementGuid>706ce322-5eea-48a0-b7c6-20b44cff2cc5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'The categogy “Tivi” was changed successfully.' or . = 'The categogy “Tivi” was changed successfully.')]</value>
+      <webElementGuid>ced4e760-14b7-4015-90ee-4865894f8b41</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
