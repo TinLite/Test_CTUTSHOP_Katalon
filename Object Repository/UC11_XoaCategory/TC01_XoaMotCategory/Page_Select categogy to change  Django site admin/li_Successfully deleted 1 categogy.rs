@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Successfully deleted 1 categogy</name>
+   <tag></tag>
+   <elementGuidId>5c17c8ef-bb33-456f-bcf1-7babec141e68</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='content-start']/ul/li</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li.success</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>745a0eb5-2c8d-45e9-bf2f-7fa2711d8670</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>success</value>
+      <webElementGuid>52dc1e6e-b6f0-4de7-8ebd-d3eacba70fd7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Successfully deleted 1 categogy.</value>
+      <webElementGuid>130c2783-bc58-4b88-bb9d-fffca356fce5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content-start&quot;)/ul[@class=&quot;messagelist&quot;]/li[@class=&quot;success&quot;]</value>
+      <webElementGuid>26d66892-9eaa-49e5-af30-e71da00dbb1b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='content-start']/ul/li</value>
+      <webElementGuid>49677b52-aacc-4600-a60c-b9213deba0fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add'])[4]/following::li[1]</value>
+      <webElementGuid>0c90d684-c1e4-4bb6-b4d2-deb811aa0983</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Users'])[1]/following::li[1]</value>
+      <webElementGuid>c91a2855-61ac-4975-8a5d-5523e74a1a48</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select categogy to change'])[1]/preceding::li[1]</value>
+      <webElementGuid>0f50b9cf-a4b2-4f76-8cbb-5dc8b91a6a85</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add categogy'])[1]/preceding::li[1]</value>
+      <webElementGuid>41017db2-de1f-4825-b87d-81ca6d2790e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Successfully deleted 1 categogy.']/parent::*</value>
+      <webElementGuid>a607bc98-b003-4a8a-8be8-42903c8df200</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li</value>
+      <webElementGuid>04bced49-aa6a-457b-9031-6d35415e26aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'Successfully deleted 1 categogy.' or . = 'Successfully deleted 1 categogy.')]</value>
+      <webElementGuid>a0ace2d0-8dbf-428b-9394-82aadca05a52</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

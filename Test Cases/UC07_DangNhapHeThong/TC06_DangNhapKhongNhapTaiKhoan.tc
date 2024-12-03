@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC06_DangNhapKhongNhapTaiKhoan</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ace55564-b96f-41bf-ad3f-ab56519123da</testCaseGuid>
+</TestCaseEntity>

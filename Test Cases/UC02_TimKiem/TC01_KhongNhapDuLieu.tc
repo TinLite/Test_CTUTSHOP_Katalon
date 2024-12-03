@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC01_KhongNhapDuLieu</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>21e17e94-bc2e-4793-be64-d3fb5f0c8fb2</testCaseGuid>
+</TestCaseEntity>

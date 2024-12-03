@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC06_TimKiemKhongPhanBietHoaThuong</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>441df0ee-2210-4c29-af63-4ec2609a4c23</testCaseGuid>
+</TestCaseEntity>

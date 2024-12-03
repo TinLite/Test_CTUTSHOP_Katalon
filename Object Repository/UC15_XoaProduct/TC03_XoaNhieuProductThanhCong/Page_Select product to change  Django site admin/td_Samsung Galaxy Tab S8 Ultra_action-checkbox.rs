@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_Samsung Galaxy Tab S8 Ultra_action-checkbox</name>
+   <tag></tag>
+   <elementGuidId>bdb88662-0667-456f-a08b-fd5ff92f48ae</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='result_list']/tbody/tr[2]/td</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>tr:nth-of-type(2) > td.action-checkbox</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>b2b4279c-74b0-448b-a907-5a4f2c005e8e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>action-checkbox</value>
+      <webElementGuid>b2cfd7a1-85c8-4218-8cd9-e8a9fa7c95c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;result_list&quot;)/tbody[1]/tr[2]/td[@class=&quot;action-checkbox&quot;]</value>
+      <webElementGuid>4a064e47-a089-4134-81d9-61660bfa2928</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='result_list']/tbody/tr[2]/td</value>
+      <webElementGuid>9917e070-abe4-48ef-9d74-5797f18a8c25</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Samsung Galaxy Tab S8 Ultra'])[1]/following::td[1]</value>
+      <webElementGuid>b45f5dc6-19d3-4752-9f26-03d35956ea9a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Product'])[1]/following::td[2]</value>
+      <webElementGuid>dfa61254-7e75-48e3-9aa0-a8ca4675c6a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='iPad Pro M1 11 inch WiFi Cellular 2TB (2021)'])[1]/preceding::td[1]</value>
+      <webElementGuid>5b69a601-efdf-4128-8c7e-22fc761a1c25</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ipad 9 Pro'])[1]/preceding::td[2]</value>
+      <webElementGuid>90be3727-1463-45ff-801f-4a86ced02bc5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div[2]/table/tbody/tr[2]/td</value>
+      <webElementGuid>f9262d28-ffd9-4d42-8895-b88e3818e2ab</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

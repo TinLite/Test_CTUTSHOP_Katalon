@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC03_DangNhapSaiTaiKhoan</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>68f4e5c0-7687-4b69-b606-16d59140ed9b</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC07_XoaTatCaCategoryThanhCong</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>be9379e6-f97c-4e98-a95c-4f7695cde521</testCaseGuid>
+</TestCaseEntity>

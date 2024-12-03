@@ -6,11 +6,12 @@
    <UUID>e772f21d-5152-4ed6-8705-587b170cf7d4</UUID>
    <createdEdition>FREE</createdEdition>
    <createdVersion>9.7.3</createdVersion>
-   <freeLicense>false</freeLicense>
+   <freeLicense>true</freeLicense>
    <migratedVersion>5.9.0</migratedVersion>
    <modifiedEdition>FREE</modifiedEdition>
    <modifiedVersion>9.7.3</modifiedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
+   <projectFileLocation>C:\Users\lequa\Katalon Studio\Test_CTUTSHOP_Katalon\Test_CTUTSHOP_Katalon.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>

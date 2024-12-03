@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC02_TimKiemCoKetQuaTraVe</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8ac1096b-83e9-4b3d-863a-f6b5c2f7ce94</testCaseGuid>
+</TestCaseEntity>

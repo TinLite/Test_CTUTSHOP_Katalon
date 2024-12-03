@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span</name>
+   <tag></tag>
+   <elementGuidId>6530ba9d-6e16-4144-b7b8-b9924a91e39e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='result_list']/thead/tr/th/div/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.text > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>7f9de6ca-6317-4f4e-b751-3a61b0f3baae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;result_list&quot;)/thead[1]/tr[1]/th[@class=&quot;action-checkbox-column&quot;]/div[@class=&quot;text&quot;]/span[1]</value>
+      <webElementGuid>0ddebc60-4025-40ee-b594-add9cdeee3f3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='result_list']/thead/tr/th/div/span</value>
+      <webElementGuid>bfc80d6c-3a83-4781-89cd-d7e4c2f93690</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Go'])[1]/following::span[2]</value>
+      <webElementGuid>7ed3e30f-2629-4d91-aa1a-ed521b8f2e14</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Product'])[1]/preceding::span[1]</value>
+      <webElementGuid>f75d325f-9d9f-4c1a-89e4-498af8459b66</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ipad 9 Pro'])[1]/preceding::span[1]</value>
+      <webElementGuid>5b61c5c6-b937-4ce0-a13c-e18fe5f80896</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//th/div/span</value>
+      <webElementGuid>76cfd617-56f5-4c8a-a863-8838c8df8486</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
