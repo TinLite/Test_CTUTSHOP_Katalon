@@ -6,12 +6,12 @@
    <elementGuidId>1c8f5e5f-1e6b-413e-a7f0-56aa300dc2bd</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>input[type=&quot;submit&quot;]</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//input[@value='Log in']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input[type=&quot;submit&quot;]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>ceb503ad-235b-48e4-bdc5-5bc6ba7a694b</webElementGuid>
+      <webElementGuid>d53c3c87-a87f-44a2-a14e-11e576208f73</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,7 +31,7 @@
       <name>type</name>
       <type>Main</type>
       <value>submit</value>
-      <webElementGuid>2dc35264-5d9d-482b-81c4-b0fc08423591</webElementGuid>
+      <webElementGuid>5af43bb1-6896-468f-b0e4-d1b33f7ee23c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +39,7 @@
       <name>value</name>
       <type>Main</type>
       <value>Log in</value>
-      <webElementGuid>c2dccb99-563a-418f-9c9c-aecd2824759a</webElementGuid>
+      <webElementGuid>daf761db-8972-4427-99bc-ffcc66b053fa</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +47,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;login-form&quot;)/div[@class=&quot;submit-row&quot;]/input[1]</value>
-      <webElementGuid>9cfb471d-4fc2-4cfe-82e8-ee4ee6dff20c</webElementGuid>
+      <webElementGuid>1f53a21f-2bc6-4036-8968-66733917faec</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -55,7 +55,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@value='Log in']</value>
-      <webElementGuid>7016aca0-dbce-42eb-96d6-4f5e222a6019</webElementGuid>
+      <webElementGuid>e2f55915-f723-4425-ba19-7bb18c3ae104</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//form[@id='login-form']/div[3]/input</value>
-      <webElementGuid>ef3907ca-1deb-42b5-a37e-3d5b99b6141a</webElementGuid>
+      <webElementGuid>233b9f80-9d04-4493-a94a-9a650c56232b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/input</value>
-      <webElementGuid>1aed79b3-f017-4e67-b413-85c8346793cd</webElementGuid>
+      <webElementGuid>0e6300c7-c1c5-4da1-9f2e-33e9d7515870</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,6 +79,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'submit']</value>
-      <webElementGuid>48da4147-c3ad-4bbd-bdfa-c71cb3bf02f6</webElementGuid>
+      <webElementGuid>0e7bcc3a-8818-4aa3-88e9-4e684210216a</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Password_password</name>
+   <name>input_Note You are 7 hours ahead of server _4695a7</name>
    <tag></tag>
-   <elementGuidId>ae2ab821-9bba-427d-b77b-d3787f662afa</elementGuidId>
+   <elementGuidId>cec6672e-58d8-41dc-b13a-53dcd9cb4625</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//input[@id='id_password']</value>
+         <value>//input[@name='_save']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#id_password</value>
+         <value>input[name=&quot;_save&quot;]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,78 +23,78 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>4d9ae695-2ef9-438d-bbb8-fc1e31391bb3</webElementGuid>
+      <webElementGuid>de84b885-b4e4-4d2a-8f5a-b5b98d2730f7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
-      <value>password</value>
-      <webElementGuid>b42e0989-9f0e-4b15-92a7-df955b6c2c8d</webElementGuid>
+      <value>submit</value>
+      <webElementGuid>15293499-3d63-46c2-b997-f67419a41951</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>Save</value>
+      <webElementGuid>3957b9a2-8f1c-4ee9-93a2-186815d8bdd5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>default</value>
+      <webElementGuid>5f479210-9f27-474c-b26c-57924e1d9fb9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>name</name>
       <type>Main</type>
-      <value>password</value>
-      <webElementGuid>8fbb94fd-88f0-420f-9082-05e7f3f51689</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>autocomplete</name>
-      <type>Main</type>
-      <value>current-password</value>
-      <webElementGuid>59e9a845-ea0d-41ba-bd36-1b2962728999</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>id</name>
-      <type>Main</type>
-      <value>id_password</value>
-      <webElementGuid>e78b8ed7-1e0f-4d6c-8276-12bdbd11bd1a</webElementGuid>
+      <value>_save</value>
+      <webElementGuid>f93bc305-6299-4820-bd86-5e9d91f9582f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;id_password&quot;)</value>
-      <webElementGuid>d2f7e49c-31b0-42c8-94f5-5e2ed5064daa</webElementGuid>
+      <value>id(&quot;user_form&quot;)/div[1]/div[@class=&quot;submit-row&quot;]/input[@class=&quot;default&quot;]</value>
+      <webElementGuid>e692c481-ac27-43a1-ae04-0dca489b4550</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='id_password']</value>
-      <webElementGuid>c2805676-36e4-433f-8451-c47497690046</webElementGuid>
+      <value>//input[@name='_save']</value>
+      <webElementGuid>995117dd-5f10-4627-80c1-108ba1e1b9d7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//form[@id='login-form']/div[2]/input</value>
-      <webElementGuid>c276166f-0d8b-4c98-9148-2354c6ba40c1</webElementGuid>
+      <value>//form[@id='user_form']/div/div/input</value>
+      <webElementGuid>8786e2a2-311f-4319-b458-86910d11858e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[2]/input</value>
-      <webElementGuid>2a1173af-a3c6-4041-9f10-5913ec387572</webElementGuid>
+      <value>//div/div/input</value>
+      <webElementGuid>5fb8262e-e1b6-41a6-bb55-174290d9b6d1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@type = 'password' and @name = 'password' and @id = 'id_password']</value>
-      <webElementGuid>7d9c1018-7a14-4f2c-8aa2-b88739d1962b</webElementGuid>
+      <value>//input[@type = 'submit' and @name = '_save']</value>
+      <webElementGuid>7a858726-9c69-4789-9cc5-08add56c2dda</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

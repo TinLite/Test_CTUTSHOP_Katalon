@@ -6,12 +6,12 @@
    <elementGuidId>1de33487-281a-4034-a25a-4109554cea33</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>a.changelink</value>
+         <key>XPATH</key>
+         <value>//div[@id='content-main']/div[2]/table/tbody/tr[2]/td[2]/a</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='content-main']/div/table/tbody/tr/td[2]/a</value>
+         <key>CSS</key>
+         <value>tr.model-user > td:nth-of-type(2) > a.changelink</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,15 +23,15 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>4b056f72-18cd-412f-a9e9-f1d7dfe9690d</webElementGuid>
+      <webElementGuid>177c35e0-ecd0-45de-813f-41b299adc5c6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>href</name>
       <type>Main</type>
-      <value>/admin/app/categogy/</value>
-      <webElementGuid>d91bb030-4320-43cf-82b2-41210a511752</webElementGuid>
+      <value>/admin/auth/user/</value>
+      <webElementGuid>67cffab3-50a9-4c0b-833a-e49d590390d5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,15 +39,15 @@
       <name>class</name>
       <type>Main</type>
       <value>changelink</value>
-      <webElementGuid>19ba9ca0-115e-4169-8a9c-b837796dc290</webElementGuid>
+      <webElementGuid>4009a74e-c1dc-4b72-bbef-bdd9114805e8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>aria-describedby</name>
       <type>Main</type>
-      <value>app-categogy</value>
-      <webElementGuid>992fdc73-e9e0-415c-be12-308dce6dba24</webElementGuid>
+      <value>auth-user</value>
+      <webElementGuid>b024aec7-e6fe-4845-b559-3c5b8d71ac36</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -55,18 +55,90 @@
       <name>text</name>
       <type>Main</type>
       <value>Change</value>
-      <webElementGuid>25234d61-4aee-4509-bcb5-d62106b3cde2</webElementGuid>
+      <webElementGuid>d1337b00-7f75-4f76-91cd-85dd3748b681</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;content-main&quot;)/div[@class=&quot;app-app module&quot;]/table[1]/tbody[1]/tr[@class=&quot;model-categogy&quot;]/td[2]/a[@class=&quot;changelink&quot;]</value>
-      <webElementGuid>8ac09a7c-65b9-43fe-8d09-9aab161e93b6</webElementGuid>
+      <value>id(&quot;content-main&quot;)/div[@class=&quot;app-auth module&quot;]/table[1]/tbody[1]/tr[@class=&quot;model-user&quot;]/td[2]/a[@class=&quot;changelink&quot;]</value>
+      <webElementGuid>c17ea505-e8d4-44d6-8763-ca4550967da6</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content-main']/div[2]/table/tbody/tr[2]/td[2]/a</value>
+      <webElementGuid>0a4c01f4-682b-4a68-b63f-6197a917925a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Change')])[5]</value>
+      <webElementGuid>5a0fca2a-8401-46af-b736-930aa2652a8f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add'])[4]/following::a[1]</value>
+      <webElementGuid>ab905a74-3fa0-4e91-913f-884dfb5fc115</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Users'])[1]/following::a[2]</value>
+      <webElementGuid>e9fc1800-2c4d-40bd-81a4-a268a38b17d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Recent actions'])[1]/preceding::a[1]</value>
+      <webElementGuid>93bbc105-4a27-4251-a74c-2cfd1e45bf1f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My actions'])[1]/preceding::a[1]</value>
+      <webElementGuid>b185f0ba-5e61-433e-85c6-09d6e6b4e9f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/admin/auth/user/')])[3]</value>
+      <webElementGuid>c0938337-381b-4c50-aca8-c7a5c394b07f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/table/tbody/tr[2]/td[2]/a</value>
+      <webElementGuid>60b276ce-fbf4-4427-8bc0-2573fcb8962a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/admin/auth/user/' and (text() = 'Change' or . = 'Change')]</value>
+      <webElementGuid>7edc5042-7b19-4c46-8998-736f4201d08d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>

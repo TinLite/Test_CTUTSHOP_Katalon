@@ -42,9 +42,7 @@ try {
         FailureHandling.CONTINUE_ON_FAILURE
     )
 } catch (Exception e) {
-    // Log lỗi
     WebUI.comment("Test case gặp lỗi: " + e.message)
 } finally {
-    // Đóng trình duyệt dù có lỗi hay không
     WebUI.closeBrowser()
 }

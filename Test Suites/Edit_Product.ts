@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Edit_Product</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>91ce9f1a-1c92-4170-9ea0-3a67a1d7d35e</testSuiteGuid>
+   <testCaseLink>
+      <guid>d01d71a8-6e34-467c-af3d-433a7bd7070d</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Edit_Product</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>5e1c8818-1265-4706-af26-bfdf3a9a90fc</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/DF_edit_product</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>5e1c8818-1265-4706-af26-bfdf3a9a90fc</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Cate</value>
+         <variableId>8942726f-c728-41f1-bc6b-e7dae771e7c9</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>5e1c8818-1265-4706-af26-bfdf3a9a90fc</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Name</value>
+         <variableId>fe71472e-24be-49fd-afb5-b3f394b6b34b</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>5e1c8818-1265-4706-af26-bfdf3a9a90fc</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Price</value>
+         <variableId>6f749010-f959-4fec-824b-e770266306d8</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>5e1c8818-1265-4706-af26-bfdf3a9a90fc</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Files</value>
+         <variableId>2185763c-6784-43ff-839e-6127532abb6e</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>5e1c8818-1265-4706-af26-bfdf3a9a90fc</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Detail</value>
+         <variableId>72eae319-4345-4db6-a61a-2b4491bccb77</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>5e1c8818-1265-4706-af26-bfdf3a9a90fc</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Res</value>
+         <variableId>a1fe419e-3a70-4738-a01f-b1051588df7a</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

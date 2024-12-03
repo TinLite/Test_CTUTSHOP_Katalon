@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>a_ng nhp</name>
+   <name>a_baduy</name>
    <tag></tag>
-   <elementGuidId>4db02fd1-e434-450b-be6c-5d0033e2e9c4</elementGuidId>
+   <elementGuidId>a0901b12-9ac0-419b-8868-1a72ba50c631</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='navbarSupportedContent']/ul/li[4]/a</value>
+         <value>//table[@id='result_list']/tbody/tr/th/a</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value></value>
+         <value>th.field-username > a</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,126 +23,110 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>405c7af7-f78f-493f-a566-c14a719d23cf</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>class</name>
-      <type>Main</type>
-      <value>nav-link</value>
-      <webElementGuid>0245a8ef-6367-4f9d-b297-894fb7a60faf</webElementGuid>
+      <webElementGuid>53eef757-f7d8-49bd-b2e4-5d4f479af489</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>href</name>
       <type>Main</type>
-      <value>http://127.0.0.1:8000/admin/</value>
-      <webElementGuid>7b2874da-5a95-43c7-a434-26f20c1c39c6</webElementGuid>
+      <value>/admin/auth/user/2/change/</value>
+      <webElementGuid>73a312c5-0da0-49e0-b2d0-dfcbfc81afbc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Đăng nhập</value>
-      <webElementGuid>35534780-be23-405d-9bca-bb5802d39ff8</webElementGuid>
+      <value>baduy</value>
+      <webElementGuid>8df3ca0a-2c85-4d52-b7b5-d3a9949c5a77</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;navbarSupportedContent&quot;)/ul[@class=&quot;navbar-nav me-auto mb-2 mb-lg-0&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link&quot;]</value>
-      <webElementGuid>cf33fcb6-a27d-44f8-aab4-620d9d634553</webElementGuid>
+      <value>id(&quot;result_list&quot;)/tbody[1]/tr[1]/th[@class=&quot;field-username&quot;]/a[1]</value>
+      <webElementGuid>84e20662-31eb-4050-b44a-aa371f106fef</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='navbarSupportedContent']/ul/li[4]/a</value>
-      <webElementGuid>c7ed2cca-6e7b-499d-81e3-260a05d53500</webElementGuid>
+      <value>//table[@id='result_list']/tbody/tr/th/a</value>
+      <webElementGuid>2f450bd1-28a6-4b63-8c94-596fc3028947</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:link</name>
       <type>Main</type>
-      <value>//a[contains(text(),'Đăng nhập')]</value>
-      <webElementGuid>2ff29259-e506-4709-8a7f-8d0567a199f6</webElementGuid>
+      <value>//a[contains(text(),'baduy')]</value>
+      <webElementGuid>d6f37188-9827-4439-948a-c4c4285c1738</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Giới thiệu Shop'])[1]/following::a[1]</value>
-      <webElementGuid>5585a0cd-98df-4657-b0c1-f0f99e65641b</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Staff status'])[1]/following::a[1]</value>
+      <webElementGuid>0986763b-026a-4b56-b09a-8f35b8f4854d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Máy Tính'])[1]/following::a[2]</value>
-      <webElementGuid>f346d4e7-430b-4530-9e40-1ff6048ba55b</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Last name'])[1]/following::a[2]</value>
+      <webElementGuid>ad4c2e99-e18f-4653-9cd4-3ce62841a8f0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tìm'])[1]/preceding::a[1]</value>
-      <webElementGuid>de84aecf-fd64-41bc-b28b-a65ceba9feff</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[1]/preceding::a[1]</value>
+      <webElementGuid>43ed6858-34ba-45d3-9fd6-1c64a3485b46</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='IPHONE'])[1]/preceding::a[1]</value>
-      <webElementGuid>2aa9d34f-edd2-4821-ae57-cb8cd52da159</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[2]/preceding::a[1]</value>
+      <webElementGuid>e7c3e2ce-1345-4398-b512-5eb9c1caecb0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Đăng nhập']/parent::*</value>
-      <webElementGuid>9c030e79-5532-4965-af8f-af3dd41e9173</webElementGuid>
+      <value>//*/text()[normalize-space(.)='baduy']/parent::*</value>
+      <webElementGuid>00642d59-3a6d-4123-8c68-3f5861b1c196</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:href</name>
       <type>Main</type>
-      <value>//a[@href='http://127.0.0.1:8000/admin/']</value>
-      <webElementGuid>aa64d282-d613-455e-a4e7-ddc82ce5b271</webElementGuid>
+      <value>//a[contains(@href, '/admin/auth/user/2/change/')]</value>
+      <webElementGuid>70df2921-7ebe-4a2a-bee1-0c51a5dcce7c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//li[4]/a</value>
-      <webElementGuid>b68aeedf-fe8c-430f-a110-ca32cbad1db0</webElementGuid>
+      <value>//form/div[2]/table/tbody/tr/th/a</value>
+      <webElementGuid>36ae4e83-ed89-4a6a-87a4-708eeab71657</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//a[@href = 'http://127.0.0.1:8000/admin/' and (text() = 'Đăng nhập' or . = 'Đăng nhập')]</value>
-      <webElementGuid>caa0febb-c9ad-4a01-8c62-9659f0fee5d5</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tivi'])[1]/following::a[2]</value>
-      <webElementGuid>9cf813a2-fb8b-48a9-9726-3c03ac94aac0</webElementGuid>
+      <value>//a[@href = '/admin/auth/user/2/change/' and (text() = 'baduy' or . = 'baduy')]</value>
+      <webElementGuid>51ea2f98-3bb8-49f5-b965-bd7398b17333</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

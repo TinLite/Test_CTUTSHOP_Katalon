@@ -3,7 +3,7 @@
    <description></description>
    <name>a_ng nhp</name>
    <tag></tag>
-   <elementGuidId>4db02fd1-e434-450b-be6c-5d0033e2e9c4</elementGuidId>
+   <elementGuidId>7561d735-ff6b-49d5-a68e-23bbdc0286dc</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>405c7af7-f78f-493f-a566-c14a719d23cf</webElementGuid>
+      <webElementGuid>9c140f7c-08b6-4a3f-822d-9761d6c772ab</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>class</name>
       <type>Main</type>
       <value>nav-link</value>
-      <webElementGuid>0245a8ef-6367-4f9d-b297-894fb7a60faf</webElementGuid>
+      <webElementGuid>94cf2642-8478-4f4c-8575-b4570d1be4e2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +39,7 @@
       <name>href</name>
       <type>Main</type>
       <value>http://127.0.0.1:8000/admin/</value>
-      <webElementGuid>7b2874da-5a95-43c7-a434-26f20c1c39c6</webElementGuid>
+      <webElementGuid>02499a10-51c1-401e-9eae-4ac6855d53e8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,7 +47,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Đăng nhập</value>
-      <webElementGuid>35534780-be23-405d-9bca-bb5802d39ff8</webElementGuid>
+      <webElementGuid>b727f2e6-f8f2-459b-b90b-b55b7ffb180f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +55,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;navbarSupportedContent&quot;)/ul[@class=&quot;navbar-nav me-auto mb-2 mb-lg-0&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link&quot;]</value>
-      <webElementGuid>cf33fcb6-a27d-44f8-aab4-620d9d634553</webElementGuid>
+      <webElementGuid>f0da1869-5f16-4bee-af69-5336ca5574d2</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -63,7 +63,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='navbarSupportedContent']/ul/li[4]/a</value>
-      <webElementGuid>c7ed2cca-6e7b-499d-81e3-260a05d53500</webElementGuid>
+      <webElementGuid>9d516dab-defe-421e-88d4-d077609bec0b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Đăng nhập')]</value>
-      <webElementGuid>2ff29259-e506-4709-8a7f-8d0567a199f6</webElementGuid>
+      <webElementGuid>7fc7d8ee-15c8-464f-8017-f9c2f3f0562a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Giới thiệu Shop'])[1]/following::a[1]</value>
-      <webElementGuid>5585a0cd-98df-4657-b0c1-f0f99e65641b</webElementGuid>
+      <webElementGuid>88dcc766-40c6-49ff-b3c5-56070ca974a5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Máy Tính'])[1]/following::a[2]</value>
-      <webElementGuid>f346d4e7-430b-4530-9e40-1ff6048ba55b</webElementGuid>
+      <webElementGuid>79358b80-6d8f-4784-bd17-a078c92919a3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Tìm'])[1]/preceding::a[1]</value>
-      <webElementGuid>de84aecf-fd64-41bc-b28b-a65ceba9feff</webElementGuid>
+      <webElementGuid>98a3f9b1-8e4c-453a-8198-a6dc5ac4d91f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +103,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='IPHONE'])[1]/preceding::a[1]</value>
-      <webElementGuid>2aa9d34f-edd2-4821-ae57-cb8cd52da159</webElementGuid>
+      <webElementGuid>85899570-1a79-4709-938b-d05c61ca8a68</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,7 +111,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Đăng nhập']/parent::*</value>
-      <webElementGuid>9c030e79-5532-4965-af8f-af3dd41e9173</webElementGuid>
+      <webElementGuid>f5023b0c-d8be-42e9-adf8-7d4609b7c42b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -119,7 +119,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[@href='http://127.0.0.1:8000/admin/']</value>
-      <webElementGuid>aa64d282-d613-455e-a4e7-ddc82ce5b271</webElementGuid>
+      <webElementGuid>7da95cf5-321f-4516-aa97-780743bbebba</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -127,7 +127,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[4]/a</value>
-      <webElementGuid>b68aeedf-fe8c-430f-a110-ca32cbad1db0</webElementGuid>
+      <webElementGuid>c41e5322-dc32-4244-bc76-35a33a4b6d04</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -135,14 +135,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'http://127.0.0.1:8000/admin/' and (text() = 'Đăng nhập' or . = 'Đăng nhập')]</value>
-      <webElementGuid>caa0febb-c9ad-4a01-8c62-9659f0fee5d5</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tivi'])[1]/following::a[2]</value>
-      <webElementGuid>9cf813a2-fb8b-48a9-9726-3c03ac94aac0</webElementGuid>
+      <webElementGuid>b2b35f25-50ab-4aa9-acb9-6f9cb9e9b8db</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

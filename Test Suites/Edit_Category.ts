@@ -12,36 +12,27 @@
    <rerunImmediately>false</rerunImmediately>
    <testSuiteGuid>d598c58b-d22b-46b5-ad8c-1b1df8f90a3b</testSuiteGuid>
    <testCaseLink>
-      <guid>edd13245-e589-454b-b509-0aa91064461e</guid>
+      <guid>fd287c19-9335-48da-9e24-a09bd1138494</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Edit_Category</testCaseId>
-      <testDataLink>
-         <combinationType>ONE</combinationType>
-         <id>cbabe126-5be0-4fe8-9fcc-ffa89af27655</id>
-         <iterationEntity>
-            <iterationType>ALL</iterationType>
-            <value></value>
-         </iterationEntity>
-         <testDataId>Data Files/DF_edit_category</testDataId>
-      </testDataLink>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
-         <testDataLinkId>cbabe126-5be0-4fe8-9fcc-ffa89af27655</testDataLinkId>
-         <type>DATA_COLUMN</type>
-         <value>Name</value>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
          <variableId>b7a25991-47a8-4c9c-8feb-b6ea2dcb22e7</variableId>
       </variableLink>
       <variableLink>
-         <testDataLinkId>cbabe126-5be0-4fe8-9fcc-ffa89af27655</testDataLinkId>
-         <type>DATA_COLUMN</type>
-         <value>Slug</value>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
          <variableId>3fb7be23-a1cd-419a-a1a8-011dfd779adb</variableId>
       </variableLink>
       <variableLink>
-         <testDataLinkId>cbabe126-5be0-4fe8-9fcc-ffa89af27655</testDataLinkId>
-         <type>DATA_COLUMN</type>
-         <value>Res</value>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
          <variableId>128c7ff6-376b-49de-adbc-2791a9e07c44</variableId>
       </variableLink>
    </testCaseLink>

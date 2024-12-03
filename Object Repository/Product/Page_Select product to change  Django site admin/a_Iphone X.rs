@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Iphone X</name>
+   <tag></tag>
+   <elementGuidId>bcf91d10-9262-4676-bbba-fcaa8ebb3e2f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>tr:nth-of-type(9) > th.field-__str__ > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='result_list']/tbody/tr[9]/th/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>b23d2a71-e714-4694-ada3-69010f753577</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/admin/app/product/1/change/</value>
+      <webElementGuid>930c3add-7004-4aa8-bda2-8a03eb41eb9e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Iphone X</value>
+      <webElementGuid>f5c1c9ca-b572-4f73-8251-be244fac7b9d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;result_list&quot;)/tbody[1]/tr[9]/th[@class=&quot;field-__str__&quot;]/a[1]</value>
+      <webElementGuid>a38d191e-ff6e-40bc-a7f0-262fc565e5ec</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='result_list']/tbody/tr[9]/th/a</value>
+      <webElementGuid>ffb347b7-1c70-4b86-86d9-f7cf12d148ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Iphone X')]</value>
+      <webElementGuid>1968e30c-f2f7-4005-8cfc-aff940ec085b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Iphone 11 pro Max'])[1]/following::a[1]</value>
+      <webElementGuid>59b5a424-9b7a-461b-b5d4-6e125772ec8f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Iphone 12 pro max'])[1]/following::a[2]</value>
+      <webElementGuid>292ecc1d-4f89-4986-9629-228301521396</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Iphone X']/parent::*</value>
+      <webElementGuid>789d09f8-dc9c-44d9-a769-003c8789cd95</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/admin/app/product/1/change/')]</value>
+      <webElementGuid>2c057698-7616-4daf-91dd-cd80a4efbbdd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[9]/th/a</value>
+      <webElementGuid>bcca820b-b7ce-4816-a993-e32f0d17fe85</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/admin/app/product/1/change/' and (text() = 'Iphone X' or . = 'Iphone X')]</value>
+      <webElementGuid>2953464f-b38e-4466-8678-258e5bf514db</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
