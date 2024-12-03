@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_The user vinh was added successfully. Yo_66ab55</name>
+   <tag></tag>
+   <elementGuidId>b9e5bf53-f7dc-49f6-861b-83534084e17a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li.success</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='content-start']/ul/li</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>e2b26c53-789c-4e73-953f-aca993f00868</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>success</value>
+      <webElementGuid>f3d0a971-28f8-44aa-828d-d01d7224862b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>The user “vinh” was added successfully. You may edit it again below.</value>
+      <webElementGuid>28dba6df-9a6c-4e80-88b5-3687af8b2077</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content-start&quot;)/ul[@class=&quot;messagelist&quot;]/li[@class=&quot;success&quot;]</value>
+      <webElementGuid>7e95c07b-8c20-4ab6-85eb-f6c720949efa</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='content-start']/ul/li</value>
+      <webElementGuid>dfccdd9e-c863-422c-b9dd-6871f9bb1a15</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add'])[4]/following::li[1]</value>
+      <webElementGuid>2790e8fb-2dac-4e2a-98c7-a52f6e9f63b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Users'])[2]/following::li[1]</value>
+      <webElementGuid>caad8c82-f347-4f2e-b331-e6ae2fa650ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Change user'])[1]/preceding::li[1]</value>
+      <webElementGuid>b4399105-ac6e-4527-b6c6-d219100c042d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='The user “']/parent::*</value>
+      <webElementGuid>9c912971-8b41-4e90-8c5e-36076258ea1b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li</value>
+      <webElementGuid>3c1becd8-c0a6-4593-97e0-33b944de7e36</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'The user “vinh” was added successfully. You may edit it again below.' or . = 'The user “vinh” was added successfully. You may edit it again below.')]</value>
+      <webElementGuid>b9ba7b1c-e48f-4e47-a8f7-293ae31d61d1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

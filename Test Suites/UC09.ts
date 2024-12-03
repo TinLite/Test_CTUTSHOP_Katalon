@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>UC09</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>09e84764-f5f9-4813-a189-8b94b9d5fb33</testSuiteGuid>
+   <testCaseLink>
+      <guid>738e78c3-520b-4c63-9b75-076ddda2d496</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/UC09_ADMIN_CategoryAdd/TC01_ThemCategoryThanhCong</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>44793326-5702-486d-9492-6717b1f8844c</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <iterationNameVariable>
+         <defaultValue>''</defaultValue>
+         <description></description>
+         <id>014d136b-0521-4b2e-ad79-ea5d30f0be71</id>
+         <masked>false</masked>
+         <name>testName</name>
+      </iterationNameVariable>
+      <testCaseId>Test Cases/UC09_ADMIN_CategoryAdd/TC_Fail</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>93e31ed3-e663-465e-8622-1d6a74a06aa7</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/UC09</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>93e31ed3-e663-465e-8622-1d6a74a06aa7</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>categoryName</value>
+         <variableId>341a02a8-9633-4a64-8f38-6f08066ca4b8</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>93e31ed3-e663-465e-8622-1d6a74a06aa7</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>categorySlug</value>
+         <variableId>9d7aa57a-7bd8-44ad-911b-196c792c2da6</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>93e31ed3-e663-465e-8622-1d6a74a06aa7</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>ResponseAlert</value>
+         <variableId>0ae4ef84-643b-4958-b234-5ab66055923e</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>93e31ed3-e663-465e-8622-1d6a74a06aa7</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>testName</value>
+         <variableId>014d136b-0521-4b2e-ad79-ea5d30f0be71</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>
